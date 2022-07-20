@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TOJOB</string>
+    <string name="app_slogan">Find The One That Matches You</string>
+    <string name="app_slogan_start">Find</string>
+    <string name="app_slogan_center">The One</string>
+    <string name="app_slogan_end">That Matches You</string>
+
+    <string name="home_title">Home</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading…</string>
+    <string name="job_name">Job Name: \n%1$s</string>
+    <string name="company_name">Company Name</string>
+    <string name="description">Description</string>
+    <string name="search_in">Search: %1$s\n%2$d Jobs from %3$d Companies</string>
+    <string name="recent_search">Recent Search</string>
+
+    <string name="dismiss">Dismiss</string>
+    <string name="error_occurred">Error occurred\nPlease retry later</string>
+
+    <string name="cd_navigate_up">Navigate up</string>
+</resources>
